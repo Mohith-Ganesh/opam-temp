@@ -8,7 +8,7 @@ const Header = () => {
           <img
             className="website-logo"
             src="https://res.cloudinary.com/dttnhad6r/image/upload/v1718185704/327f0fa7e05733e7f22d51396ff821cb_y5iugk.png"
-            alt="website logo"
+            alt="website-logo"
           />
 
           <button type="button" className="nav-mobile-btn">
